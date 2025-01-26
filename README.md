@@ -105,9 +105,9 @@ Creative Commons Attribution 4.0 International License.
 </h3>
  If you would like to train this IDRiD-HardExudates Segmentation model by yourself,
  please download the dataset from the google drive  
-<a href="https://drive.google.com/file/d/1cFwfM6C-rO9PrhCd6k19CuGWIN2whUxd/view?usp=sharing">
-Tiled-IDRiD-HardExudates-ImageMask-Dataset.zip</a>
-, expand the downloaded ImageMaskDataset and put it under <b>./dataset</b> folder to be
+<a href="https://drive.google.com/file/d/1SbLhSfZbc-RVUh0xmc8PEQha1yRpBNWa/view?usp=drive_link">
+Tiled-IDRiD-HardExudates-ImageMask-Dataset.zip</a>,
+ expand the downloaded ImageMaskDataset and put it under <b>./dataset</b> folder to be
 <pre>
 ./dataset
 └─Tiled-IDRiD-HardExudates
